@@ -13,7 +13,7 @@ Features:
   * Comes with an auto-shroud adapter that meets flush with the shield. It works like an engine shroud. Just add something to the heat shield's bottom node (like a decoupler) and the shroud/adapter will appear!
 
 Known issues:
-* None.
+* Part dissapearences.
 
 Future:
 * More heat shields based on real-life ones, like a Galileo-style reflective heat shield.
