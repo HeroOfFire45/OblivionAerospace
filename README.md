@@ -2,6 +2,8 @@
 
 A small parts package of heat shields for Kerbal Space Program and the fabulous Deadly Reentry Continued mod maintained by Starwaster and NathanKell based on the works by ialdabaoth (who is awesome) and r4m0n.
 
+(Forked to try and fix issues about a part dissapearance problem)
+
 Features:
 * Currently featuring the *Conical Heat Shield* inspired by the sphere-cone heat shield on the Mars Science Laboratory.
   * Comes in three sizes: 1.25m, 2.5m, and 3.75m.
@@ -35,6 +37,9 @@ Install by merging the `GameData` folder in the zip with the `GameData` folder i
 * Deadly Reentry Continued is recommended, but not required for this mod to work.
 
 # Changelog
+**Fork v0.0.9**
+
+*Initial fork release
 
 **v0.1.3**
 * Corrected the bottom node size of all three heat shields and tweaked some reentry parameters. Many thanks to Hattivat for testing and pointing this out. :)
